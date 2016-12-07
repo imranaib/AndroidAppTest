@@ -3,53 +3,17 @@
 
     <item
         is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
+        jar="/Users/dbbe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_44e249b9740ffcb3b047759390bc033860bf367b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a890ee8445927649d9ed50f625a315d8758688be">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.2_c3779752fa670bd3aea881944e3f7b5b95f2cdea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e7afefb712e25dff8b6a461f2a58b10ffa68149a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_bcf104142832bb4e9b333740226666c4c7153ccb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.5_040647e30aaa0e12dc919c644889ca02e1d81ed5.jar" />
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_d1ee92ab150d323d90eaba87a94eaf4f08a64e2c.jar" />
     </item>
     <item
         is-multidex="false"
         jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
@@ -63,6 +27,15 @@
         revision="25.0.0"
         sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
         <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_125468c80a6586516a2fb2e251b6c138e42424d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_44e249b9740ffcb3b047759390bc033860bf367b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -75,98 +48,8 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/dbbe/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_e4ff112c78699118652b0ddcb0621bb4511bb931.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_ddf5119e74eaf503b134337b38fe72c1b6760900.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-core-2.2.2_f36f0cf97d477ac22c0bb0ff18ce866cd32c2120.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b41b89a50d3e38bb186e9827d76f7730504a881c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_c818368590793ca36106212b913b79b24821bd9e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_0af19a1c66028f6697abff6740c0bfd38663817d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_d021e3a65512c19306a32c52dc47cc3cde20e438.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="479c1e06db31c432330183f5cae684163f186146">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_7e0687163fa05873224853c4343d331b6aaacb09.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_64872027b431a4597d0301a1d9b6188241c48625.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_c496c7fb9a1953b95a73b626cc8a8823381f4385.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
@@ -174,21 +57,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b41b89a50d3e38bb186e9827d76f7730504a881c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
         <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_37b85d2a5ac991344b85ad7d944a89a4b6671dea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_d021e3a65512c19306a32c52dc47cc3cde20e438.jar" />
     </item>
     <item
         is-multidex="false"
@@ -201,120 +84,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/dbbe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_d1ee92ab150d323d90eaba87a94eaf4f08a64e2c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_bcf104142832bb4e9b333740226666c4c7153ccb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_08d1ba08ce8a14aee633e06a2068d25446922611.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_f94d46ee181440e045626136da45c58af6b0f6bb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_125468c80a6586516a2fb2e251b6c138e42424d9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_0e42e948f7b175d09c885fb4e609a76d90235f27.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_64872027b431a4597d0301a1d9b6188241c48625.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_2874ffb7adeb7839210aa15680c438c66eadb62f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_44e249b9740ffcb3b047759390bc033860bf367b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_ebc14691b47ebffff9dcc281cada8e2c6c753e99.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b41b89a50d3e38bb186e9827d76f7730504a881c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_22f6936d2a2873613292c776d068269d346606fe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.5_c7b0c6b0ad2ecd3a774fc5d528bb4bdf482646b6.jar" />
+        sha1="124faa99eacb3bb3766416ad3c76407b0da057fc">
+        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_9939087caa1d72b20ba11fd6e362c4916c8e2b9b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -336,8 +111,17 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_bcf104142832bb4e9b333740226666c4c7153ccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
@@ -345,12 +129,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar"
-        jumboMode="false"
+        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.5_892d3eafe6116c0612ebab6d77d7095c94988e5a.jar" />
+        sha1="868e63d5f36c8f1a96842a20d92006bf0c3f38ae">
+        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/instant-run_646d8fb676770119583b1813cf9309790c8eec7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_d021e3a65512c19306a32c52dc47cc3cde20e438.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_64872027b431a4597d0301a1d9b6188241c48625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_f94d46ee181440e045626136da45c58af6b0f6bb.jar" />
     </item>
     <item
         is-multidex="false"
@@ -360,78 +171,6 @@
         revision="25.0.0"
         sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
         <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_ddf5119e74eaf503b134337b38fe72c1b6760900.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_d1ee92ab150d323d90eaba87a94eaf4f08a64e2c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_fa70d38b6e2f5667d475bf538a2f1bd300fd7949.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_68d58474db6aee45c8e19322f4b23c2e1e0553b3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_37b85d2a5ac991344b85ad7d944a89a4b6671dea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_caa14a0262490139444298915b440ab790bfd059.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_ba9a2404da7614650c352523c9979d3f08b84386.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_400d7a9d00813c1ac6dd55b7cb435a24a2a33db8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/dbbe/SecondTestApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/dbbe/SecondTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_f94d46ee181440e045626136da45c58af6b0f6bb.jar" />
     </item>
     <item
         is-multidex="false"
